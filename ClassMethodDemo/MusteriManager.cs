@@ -20,7 +20,7 @@ namespace ClassMethodDemo
 
 
 
-        public  void Liste(Musteri[] musteri)
+        public  void Liste(Musteri[] musteri )
         {
             foreach(var musteriler in musteri)
             {
